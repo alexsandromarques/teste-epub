@@ -1,0 +1,7 @@
+{
+  "name": "testeEpub",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
